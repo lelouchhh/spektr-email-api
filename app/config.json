@@ -1,0 +1,14 @@
+{
+  "debug": true,
+  "server": {
+    "address": "0.0.0.0:3001"
+  },
+  "context": {
+    "timeout": 5
+  },
+  "email": {
+    "name": "spektr.feedback@yandex.ru",
+    "nameFrom" : "spektr.feedback"
+  }
+
+}
